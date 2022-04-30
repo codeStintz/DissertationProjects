@@ -1,0 +1,11 @@
+Instructions
+
+
+-Install python libraries from 'requirements.txt'
+-Run the python file called 'Detection.py'
+-Choose a folder containing '.jpg' images
+
+Images with detected face will be saved to the provided 'detected' folder
+Images with no detection will be deleted
+
+(Participation group photos cannot be provided due to data privacy)
