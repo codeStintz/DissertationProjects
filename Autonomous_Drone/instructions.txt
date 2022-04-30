@@ -1,0 +1,13 @@
+Instructions:
+
+Robotmaster TT Tello Talent drone is required
+
+- Turn on the drone
+- Connect to the drone's wifi source
+- Run 'Main.py'
+
+- Manual Controls are stated on the GUI
+- Position drone to face height
+
+- To land the drone press - 'L' - on keyboard
+
