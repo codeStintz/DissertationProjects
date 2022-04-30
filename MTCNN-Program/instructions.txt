@@ -1,6 +1,5 @@
 Instructions
 
-
 -Install python libraries from 'requirements.txt'
 -Run the python file called 'Detection.py'
 -Choose a folder containing '.jpg' images
